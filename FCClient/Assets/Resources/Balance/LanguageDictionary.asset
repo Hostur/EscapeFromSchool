@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d069050610a0e488dc62781cee1272, type: 3}
+  m_Name: LanguageDictionary
+  m_EditorClassIdentifier: 
+  Entities:
+  - Tag: Wave
+    English: Wave {0}
+    Polish: Fala {0}
+  - Tag: POINTS
+    English: Points
+    Polish: Punkty
+  - Tag: PLAY
+    English: Play
+    Polish: Graj
+  - Tag: EXIT
+    English: Exit
+    Polish: "Wyj\u015Bcie"
+  - Tag: EXIT_WINDOW_DIALOG
+    English: Are you sure you want to leave the game?
+    Polish: "Czy na pewno chcesz upu\u015Bci\u0107 gr\u0119?"
+  - Tag: NO
+    English: No
+    Polish: Nie
+  - Tag: CANCEL
+    English: Cancel
+    Polish: Anuluj
+  - Tag: OK
+    English: Ok
+    Polish: Ok
+  - Tag: CONNECTING
+    English: Connecting
+    Polish: "\u0141\u0105czenie si\u0119"
+  - Tag: LOGIN_FAILED
+    English: Login failed
+    Polish: Nieudane logowanie
+  - Tag: LOGGING
+    English: Logging
+    Polish: Logowanie
+  - Tag: CONNECTION_FAILED
+    English: Connection failed
+    Polish: "Nieudane po\u0142\u0105czenie"
+  - Tag: CONNECTION_SUCCESSFUL
+    English: Connection successful
+    Polish: "Po\u0142\u0105czono"
+  - Tag: INVALID_NICKNAME
+    English: Invalid nickname
+    Polish: Niepoprawny nickname
+  - Tag: INVALID_NICKNAME_DESCRIPTION
+    English: 'Nickname length is at least 3 signs with 2 letters in.
+
+      Allows
+      digits, one white space and one single quote character.'
+    Polish: "D\u0142ugo\u015B\u0107 nicku to conajmniej 3 znaki z 2 literami.\nDopuszczalne
+      s\u0105 cyfry, jedna spacja i jeden apostrof."
+  - Tag: INVALID_EMAIL
+    English: Invalid email
+    Polish: Niepoprawny email
+  - Tag: INVALID_PASSWORD
+    English: Invalid password
+    Polish: "Niepoprawne has\u0142o"
+  - Tag: INVALID_PASSWORD_CONFIRMATION
+    English: Passwords do not match
+    Polish: "Has\u0142a musz\u0105 by\u0107 takie same"
+  - Tag: INVALID_PASSWORD_DESCRIPTION
+    English: Password length is at least 8 signs with letter, digit and special character
+      in it
+    Polish: "Has\u0142o musi mie\u0107 conajmniej 8 znak\xF3w i zawiera\u0107 litery,
+      cyfry oraz znak specjalny"
+  - Tag: EMAIL_ALREADY_TAKEN
+    English: Email already taken
+    Polish: "Email jest ju\u017C zaj\u0119ty"
+  - Tag: NICKNAME_ALREADY_TAKEN
+    English: Nickname already taken
+    Polish: "Nickname jest ju\u017C zaj\u0119ty"
+  - Tag: NETWORK_ERROR
+    English: Network error
+    Polish: "B\u0142\u0105d sieciowy"
+  - Tag: CREATE
+    English: Create
+    Polish: "Stw\xF3rz"
+  - Tag: 'PASSWORD '
+    English: Password
+    Polish: "Has\u0142o"
+  - Tag: NICKNAME
+    English: Nickname
+    Polish: Nickname
+  - Tag: CONTINUE
+    English: Continue
+    Polish: Kontynuuj
+  - Tag: SECURE
+    English: Secure
+    Polish: Zabezpiecz
+  - Tag: SECURE_RECOMENDATION
+    English: Please consider securing your account
+    Polish: "Prosimy rozwa\u017C zabezpieczenie swojego konta"
+  - Tag: GAME_OVER
+    English: Game Over
+    Polish: "Przegra\u0142e\u015B"

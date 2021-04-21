@@ -1,0 +1,11 @@
+FCClient/Library/
+FCClient/Temp/
+FCClient/Builds/
+FCClient/BuildReports/
+FCClient/obj/
+FCClient/Assets/StreamingAssets/AssetBundles/
+FCClient/Assets/StreamingAssets/AssetBundles.meta
+*.userprefs
+*.sln
+*.csproj
+*.unityproj
